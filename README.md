@@ -16,5 +16,5 @@ Exchange | Data API | Trade API
 
 [NovaDAX](https://novadax.com.br) | [Yes](https://www.novadax.com.br/introduction-api) | [Yes](https://www.novadax.com.br/introduction-api)
 
-[Profitify](https://profitfy.trade/) | [Yes](https://profitfy.trade/Home/Api) | Yes[https://profitfy.trade/Home/Api]
+[Profitify](https://profitfy.trade/) | [Yes](https://profitfy.trade/Home/Api) | [Yes](https://profitfy.trade/Home/Api)
 [Walltime](https://walltime) | [Yes](https://walltime.info/api.html?v=deltoid-4.7.5) | [Yes](https://walltime.info/api.html?v=deltoid-4.7.5)
