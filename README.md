@@ -1,4 +1,4 @@
-# BRcrypto APIs
+# Brazilian Cryptocurrency Exchanges APIs
 A collective list of data and trade APIs of brazilian cryptocurrency exchanges.
 
 ### 
