@@ -1,5 +1,5 @@
 # brcrypto-apis
-A collective list of public and trade APIs of brazilian cryptocurrency exchanges.
+A collective list of data and trade APIs of brazilian cryptocurrency exchanges.
 
 ### 
 Exchange | Data API | Trade API
